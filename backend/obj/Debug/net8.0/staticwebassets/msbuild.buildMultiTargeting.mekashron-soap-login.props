@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mekashron-soap-login.props" />
+</Project>

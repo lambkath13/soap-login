@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mekashron-soap-login/1.0.0": {
+        "runtime": {
+          "mekashron-soap-login.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mekashron-soap-login/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

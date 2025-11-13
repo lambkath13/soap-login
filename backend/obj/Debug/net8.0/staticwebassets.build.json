@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AqQufA9IoqD9c4va9c1gX2RswvZ/GXiqDPqCHEtOghE=",
+  "Source": "mekashron-soap-login",
+  "BasePath": "_content/mekashron-soap-login",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
