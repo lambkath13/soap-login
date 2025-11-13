@@ -17,7 +17,7 @@ builder.Services.ConfigureHttpJsonOptions(o =>
 var app = builder.Build();
 app.UseCors("AllowAll");
 
-var soapEndpoint = "http://isapi.icu-tech.com/icutech-test.dll";
+var soapEndpoint = "http://isapi.mekashron.com/icu-tech/icutech-test.dll";
 
 app.MapGet("/", () => Results.Ok(new
 {
