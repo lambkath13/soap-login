@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mekashron-soap-login")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f0fb3f1a23c3f78c6559203d58213eecc087d16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dee6c9c5b4b66b90a95ba796e553f72879d5dc00")]
 [assembly: System.Reflection.AssemblyProductAttribute("mekashron-soap-login")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mekashron-soap-login")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
